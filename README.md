@@ -11,7 +11,7 @@ git push
 <br>
 How to clone a git repo?
 <br>
-git clone https://github.com/soniya-builds/Python-Mini-Projects.git(http copy)
+git clone https://github.com/soniya-builds/Python-Mini-Projects.git (http copy)
 <br>
 cd Python-Mini-Projects
 <br>
